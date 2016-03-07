@@ -1,0 +1,1 @@
+hook.Remove("InitPostEntity", "CreateVoiceVGUI")
